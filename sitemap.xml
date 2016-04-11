@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="http://kermits.com/" title="">
+<page file="kermits.html" text="" title=""/>
+<page file="order.html" text="" title=""/>
+<page file="gift_sets.html" text="" title=""/>
+<page file="testimonials.html" text="" title=""/>
+<page file="history.html" text="" title=""/>
+</page>
+</site>
